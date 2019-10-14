@@ -7,7 +7,7 @@ Create and showcase a responsive React component.
 ## Tasks
 
 - Create a configurable responsive React component based on the this [zeplin.io scene](https://scene.zeplin.io/project/5aa2574b349af0b2682b1730).
-- Create a trivial page showcasing an example result set similar in layout to https://www.zizoo.com/en/search/. The showcase should be able to demonstrate both desktop and mobile views.
+- Create a trivial page showcasing the usage of your React component similar in layout to https://www.zizoo.com/en/search/. The showcase should be able to demonstrate both desktop and mobile views.
 
 ## Test submission process and evaluation
 
