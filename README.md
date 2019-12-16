@@ -6,7 +6,7 @@ Create and showcase a responsive React component.
 
 ## Tasks
 
-- Create a **responsive** React component based on the this [zeplin.io scene](https://scene.zeplin.io/project/5aa2574b349af0b2682b1730).
+- Create a **responsive** React component based on this [zeplin.io scene](https://scene.zeplin.io/project/5aa2574b349af0b2682b1730).
 - Create a trivial page which shows how your component is used.
 
 ## Test submission process and evaluation
