@@ -6,12 +6,12 @@ Create and showcase a responsive React component.
 
 ## Tasks
 
-- Create a **responsive** React component based on this [zeplin.io scene](https://scene.zeplin.io/project/5aa2574b349af0b2682b1730).
+- Create a **responsive** React component based on a design in Zeplin which you will receive access to via e-mail.
 - Create a trivial page which shows how your component is used.
 
 ## Test submission process and evaluation
 
-- Upload a zip file containing the solution’s source code to Greenhouse (tip: exclude `node_modules` before zipping)
+- Upload a zip file containing the solution’s source code to Greenhouse (tip: exclude `node_modules` or other build artifacts before zipping)
 - The solution should be built and run using `npm run`
 - We will be evaluating:
   - completeness
